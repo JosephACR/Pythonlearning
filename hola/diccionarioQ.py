@@ -1,4 +1,5 @@
-## Necesitamos avanzar
+## Las ideas no fluyen
+## Sabemos lo que tenemos que hacer
 def Dicc quimico (simbolo,nombre,masaatomica):
     N = 118
     def lines(nombreArchivo,N):
