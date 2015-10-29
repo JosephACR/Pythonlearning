@@ -13,10 +13,10 @@ diccionario = {
 'Li',  , Lithium, 6.941(2),CC80FF,[He] 2s1 ,0.98,134,76 (+1),182,520,-60,1,solid,metallic,454,1615,0.54,alkali metal,1817
 'Be',  , Beryllium, 9.012182(3),C2FF00,[He] 2s2 ,1.57,90,45 (+2),,900,0,2,solid,metallic,1560,2743,1.85,alkaline earth metal,1798
 'B',  , Boron, 10.811(7),FFB5B5,[He] 2s2 2p1 ,2.04,82,27 (+3),,801,-27,"1, 2, 3",solid,covalent network,2348,4273,2.46,metalloid,1807
-'6', C , Carbon, 12.0107(8),909090,[He] 2s2 2p2 ,2.55,77,16 (+4),170,1087,-154,"-4, -3, -2, -1, 1, 2, 3, 4",solid,covalent network,3823,4300,2.26,nonmetal,Ancient
-'7', N , Nitrogen, 14.0067(2),3050F8,[He] 2s2 2p3 ,3.04,75,146 (-3),155,1402,-7,"-3, -2, -1, 1, 2, 3, 4, 5",gas,diatomic,63,77,0,nonmetal,1772
-'8', O , Oxygen, 15.9994(3),FF0D0D,[He] 2s2 2p4 ,3.44,73,140 (-2),152,1314,-141,"-2, -1, 1, 2",gas,diatomic,55,90,0,nonmetal,1774
-'9', F , Fluorine, 18.9984032(5),9.00E+51,[He] 2s2 2p5 ,3.98,71,133 (-1),147,1681,-328,-1,gas,atomic,54,85,0,halogen,1670
+'C',  , Carbon, 12.0107(8),909090,[He] 2s2 2p2 ,2.55,77,16 (+4),170,1087,-154,"-4, -3, -2, -1, 1, 2, 3, 4",solid,covalent network,3823,4300,2.26,nonmetal,Ancient
+'N ', , Nitrogen, 14.0067(2),3050F8,[He] 2s2 2p3 ,3.04,75,146 (-3),155,1402,-7,"-3, -2, -1, 1, 2, 3, 4, 5",gas,diatomic,63,77,0,nonmetal,1772
+'O',  , Oxygen, 15.9994(3),FF0D0D,[He] 2s2 2p4 ,3.44,73,140 (-2),152,1314,-141,"-2, -1, 1, 2",gas,diatomic,55,90,0,nonmetal,1774
+'F',  , Fluorine, 18.9984032(5),9.00E+51,[He] 2s2 2p5 ,3.98,71,133 (-1),147,1681,-328,-1,gas,atomic,54,85,0,halogen,1670
 '10', Ne , Neon, 20.1797(6),B3E3F5,[He] 2s2 2p6 ,,69,,154,2081,0,,gas,atomic,25,27,0,noble gas,1898
 '11', Na , Sodium, 22.98976928(2),AB5CF2,[Ne] 3s1 ,0.93,154,102 (+1),227,496,-53,"-1, 1",solid,metallic,371,1156,0.97,alkali metal,1807
 '12', Mg , Magnesium, 24.3050(6),8AFF00,[Ne] 3s2 ,1.31,130,72 (+2),173,738,0,"1, 2",solid,metallic,923,1363,1.74,alkaline earth metal,1808
@@ -51,19 +51,19 @@ diccionario = {
 '41', Nb , Niobium, 92.90638(2),73C2C9,[Kr] 4d4 5s1 ,1.60,137,72 (+3),,652,-86,"-1, 2, 3, 4, 5",solid,metallic,2750,5017,8.57,transition metal,1801
 '42', Mo , Molybdenum, 95.96(2),54B5B5,[Kr] 4d5 5s1 ,2.16,145,69 (+3),,684,-72,"-2, -1, 1, 2, 3, 4, 5, 6",solid,metallic,2896,4912,10.28,transition metal,1778
 '43', Tc , Technetium, [98],3B9E9E,[Kr] 4d5 5s2 ,1.90,156,64.5 (+4),,702,-53,"-3, -1, 1, 2, 3, 4, 5, 6, 7",solid,metallic,2430,4538,11.5,transition metal,1937
-44, Ru , Ruthenium, 101.07(2),248F8F,[Kr] 4d7 5s1 ,2.20,126,68 (+3),,710,-101,"-2, 1, 2, 3, 4, 5, 6, 7, 8",solid,metallic,2607,4423,12.37,transition metal,1827
-45, Rh , Rhodium, 102.90550(2),0A7D8C,[Kr] 4d8 5s1 ,2.28,135,66.5 (+3),,720,-110,"-1, 1, 2, 3, 4, 5, 6",solid,metallic,2237,3968,12.45,transition metal,1803
-46, Pd , Palladium, 106.42(1),6985,[Kr] 4d10 ,2.20,131,59 (+1),163,804,-54,"2, 4",solid,metallic,1828,3236,12.02,transition metal,1803
-47, Ag , Silver, 107.8682(2),C0C0C0,[Kr] 4d10 5s1 ,1.93,153,115 (+1),172,731,-126,"1, 2, 3",solid,metallic,1235,2435,10.49,transition metal,Ancient
-48, Cd , Cadmium, 112.411(8),FFD98F,[Kr] 4d10 5s2 ,1.69,148,95 (+2),158,868,0,2,solid,metallic,594,1040,8.65,transition metal,1817
-49, In , Indium, 114.818(3),A67573,[Kr] 4d10 5s2 5p1 ,1.78,144,80 (+3),193,558,-29,"1, 2, 3",solid,metallic,430,2345,7.31,metal,1863
-50, Sn , Tin, 118.710(7),668080,[Kr] 4d10 5s2 5p2 ,1.96,141,112 (+2),217,709,-107,"-4, 2, 4",solid,metallic,505,2875,7.31,metal,Ancient
-51, Sb , Antimony, 121.760(1),9E63B5,[Kr] 4d10 5s2 5p3 ,2.05,138,76 (+3),,834,-103,"-3, 3, 5",solid,metallic,904,1860,6.7,metalloid,Ancient
-52, Te , Tellurium, 127.60(3),D47A00,[Kr] 4d10 5s2 5p4 ,2.10,135,221 (-2),206,869,-190,"-2, 2, 4, 5, 6",solid,metallic,723,1261,6.24,metalloid,1782
-53, I , Iodine, 126.90447(3),940094,[Kr] 4d10 5s2 5p5 ,2.66,133,220 (-1),198,1008,-295,"-1, 1, 3, 5, 7",solid,covalent network,387,457,4.94,halogen,1811
-54, Xe , Xenon, 131.293(6),429EB0,[Kr] 4d10 5s2 5p6 ,,130,48 (+8),216,1170,0,"2, 4, 6, 8",gas,atomic,161,165,0.01,noble gas,1898
-55, Cs , Cesium, 132.9054519(2),57178F,[Xe] 6s1 ,0.79,225,167 (+1),,376,-46,1,solid,metallic,302,944,1.88,alkali metal,1860
-56, Ba , Barium, 137.327(7),00C900,[Xe] 6s2 ,0.89,198,135 (+2),,503,-14,2,solid,metallic,1000,2143,3.51,alkaline earth metal,1808
+'44', Ru , Ruthenium, 101.07(2),248F8F,[Kr] 4d7 5s1 ,2.20,126,68 (+3),,710,-101,"-2, 1, 2, 3, 4, 5, 6, 7, 8",solid,metallic,2607,4423,12.37,transition metal,1827
+'45', Rh , Rhodium, 102.90550(2),0A7D8C,[Kr] 4d8 5s1 ,2.28,135,66.5 (+3),,720,-110,"-1, 1, 2, 3, 4, 5, 6",solid,metallic,2237,3968,12.45,transition metal,1803
+'46', Pd , Palladium, 106.42(1),6985,[Kr] 4d10 ,2.20,131,59 (+1),163,804,-54,"2, 4",solid,metallic,1828,3236,12.02,transition metal,1803
+'47', Ag , Silver, 107.8682(2),C0C0C0,[Kr] 4d10 5s1 ,1.93,153,115 (+1),172,731,-126,"1, 2, 3",solid,metallic,1235,2435,10.49,transition metal,Ancient
+'48', Cd , Cadmium, 112.411(8),FFD98F,[Kr] 4d10 5s2 ,1.69,148,95 (+2),158,868,0,2,solid,metallic,594,1040,8.65,transition metal,1817
+'49', In , Indium, 114.818(3),A67573,[Kr] 4d10 5s2 5p1 ,1.78,144,80 (+3),193,558,-29,"1, 2, 3",solid,metallic,430,2345,7.31,metal,1863
+'50', Sn , Tin, 118.710(7),668080,[Kr] 4d10 5s2 5p2 ,1.96,141,112 (+2),217,709,-107,"-4, 2, 4",solid,metallic,505,2875,7.31,metal,Ancient
+'51', Sb , Antimony, 121.760(1),9E63B5,[Kr] 4d10 5s2 5p3 ,2.05,138,76 (+3),,834,-103,"-3, 3, 5",solid,metallic,904,1860,6.7,metalloid,Ancient
+'52', Te , Tellurium, 127.60(3),D47A00,[Kr] 4d10 5s2 5p4 ,2.10,135,221 (-2),206,869,-190,"-2, 2, 4, 5, 6",solid,metallic,723,1261,6.24,metalloid,1782
+'53', I , Iodine, 126.90447(3),940094,[Kr] 4d10 5s2 5p5 ,2.66,133,220 (-1),198,1008,-295,"-1, 1, 3, 5, 7",solid,covalent network,387,457,4.94,halogen,1811
+'54', Xe , Xenon, 131.293(6),429EB0,[Kr] 4d10 5s2 5p6 ,,130,48 (+8),216,1170,0,"2, 4, 6, 8",gas,atomic,161,165,0.01,noble gas,1898
+'55', Cs , Cesium, 132.9054519(2),57178F,[Xe] 6s1 ,0.79,225,167 (+1),,376,-46,1,solid,metallic,302,944,1.88,alkali metal,1860
+'56', Ba , Barium, 137.327(7),00C900,[Xe] 6s2 ,0.89,198,135 (+2),,503,-14,2,solid,metallic,1000,2143,3.51,alkaline earth metal,1808
 57, La , Lanthanum, 138.90547(7),70D4FF,[Xe] 5d1 6s2 ,1.10,169,103.2 (+3),,538,-48,"2, 3",solid,metallic,1193,3737,6.15,lanthanoid,1839
 58, Ce , Cerium, 140.116(1),FFFFC7,[Xe] 4f1 5d1 6s2 ,1.12,,102 (+3),,534,-50,"2, 3, 4",solid,metallic,1071,3633,6.69,lanthanoid,1803
 59, Pr , Praseodymium, 140.90765(2),D9FFC7,[Xe] 4f3 6s2 ,1.13,,99 (+3),,527,-50,"2, 3, 4",solid,metallic,1204,3563,6.64,lanthanoid,1885
