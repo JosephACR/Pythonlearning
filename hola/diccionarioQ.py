@@ -6,4 +6,5 @@ def Dicc quimico (simbolo,nombre,masaatomica):
   f = open(nombreArchivo,"r")
   l = f.readlines()
   Data =l[:N]
+  nombre = l[]
   if
