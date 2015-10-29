@@ -1,3 +1,4 @@
+## Necesitamos avanzar
 def Dicc quimico (simbolo,nombre,masaatomica):
     def lines(nombreArchivo,N):
  try:
