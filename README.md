@@ -74,21 +74,21 @@ diccionario = {
 '54', Xe , Xenon, 131.293(6),429EB0,[Kr] 4d10 5s2 5p6 ,,130,48 (+8),216,1170,0,"2, 4, 6, 8",gas,atomic,161,165,0.01,noble gas,1898
 '55', Cs , Cesium, 132.9054519(2),57178F,[Xe] 6s1 ,0.79,225,167 (+1),,376,-46,1,solid,metallic,302,944,1.88,alkali metal,1860
 '56', Ba , Barium, 137.327(7),00C900,[Xe] 6s2 ,0.89,198,135 (+2),,503,-14,2,solid,metallic,1000,2143,3.51,alkaline earth metal,1808
-57, La , Lanthanum, 138.90547(7),70D4FF,[Xe] 5d1 6s2 ,1.10,169,103.2 (+3),,538,-48,"2, 3",solid,metallic,1193,3737,6.15,lanthanoid,1839
-58, Ce , Cerium, 140.116(1),FFFFC7,[Xe] 4f1 5d1 6s2 ,1.12,,102 (+3),,534,-50,"2, 3, 4",solid,metallic,1071,3633,6.69,lanthanoid,1803
-59, Pr , Praseodymium, 140.90765(2),D9FFC7,[Xe] 4f3 6s2 ,1.13,,99 (+3),,527,-50,"2, 3, 4",solid,metallic,1204,3563,6.64,lanthanoid,1885
-60, Nd , Neodymium, 144.242(3),C7FFC7,[Xe] 4f4 6s2 ,1.14,,129 (+2),,533,-50,"2, 3",solid,metallic,1294,3373,7.01,lanthanoid,1885
-61, Pm , Promethium, [145],A3FFC7,[Xe] 4f5 6s2 ,1.13,,97 (+3),,540,-50,3,solid,metallic,1373,3273,7.26,lanthanoid,1947
-62, Sm , Samarium, 150.36(2),8FFFC7,[Xe] 4f6 6s2 ,1.17,,122 (+2),,545,-50,"2, 3",solid,metallic,1345,2076,7.35,lanthanoid,1853
-63, Eu , Europium, 151.964(1),61FFC7,[Xe] 4f7 6s2 ,1.20,,117 (+2),,547,-50,"2, 3",solid,metallic,1095,1800,5.24,lanthanoid,1901
-64, Gd , Gadolinium, 157.25(3),45FFC7,[Xe] 4f7 5d1 6s2 ,1.20,,93.8 (+3),,593,-50,"1, 2, 3",solid,metallic,1586,3523,7.9,lanthanoid,1880
-65, Tb , Terbium, 158.92535(2),30FFC7,[Xe] 4f9 6s2 ,1.20,,92.3 (+3),,566,-50,"1, 3, 4",solid,metallic,1629,3503,8.22,lanthanoid,1843
-66, Dy , Dysprosium, 162.500(1),1FFFC7,[Xe] 4f10 6s2 ,1.22,,107 (+2),,573,-50,"2, 3",solid,metallic,1685,2840,8.55,lanthanoid,1886
-67, Ho , Holmium, 164.93032(2),00FF9C,[Xe] 4f11 6s2 ,1.23,,90.1 (+3),,581,-50,3,solid,metallic,1747,2973,8.8,lanthanoid,1878
-68, Er , Erbium, 167.259(3),0.00E+00,[Xe] 4f12 6s2 ,1.24,,89 (+3),,589,-50,3,solid,metallic,1770,3141,9.07,lanthanoid,1842
-69, Tm , Thulium, 168.93421(2),00D452,[Xe] 4f13 6s2 ,1.25,,103 (+2),,597,-50,"2, 3",solid,metallic,1818,2223,9.32,lanthanoid,1879
-70, Yb , Ytterbium, 173.054(5),00BF38,[Xe] 4f14 6s2 ,1.10,,102 (+2),,603,-50,"2, 3",solid,metallic,1092,1469,6.57,lanthanoid,1878
-71, Lu , Lutetium, 174.9668(1),00AB24,[Xe] 4f14 5d1 6s2 ,1.27,160,86.1 (+3),,524,-50,3,solid,metallic,1936,3675,9.84,transition metal,1907
+'57', La , Lanthanum, 138.90547(7),70D4FF,[Xe] 5d1 6s2 ,1.10,169,103.2 (+3),,538,-48,"2, 3",solid,metallic,1193,3737,6.15,lanthanoid,1839
+'58', Ce , Cerium, 140.116(1),FFFFC7,[Xe] 4f1 5d1 6s2 ,1.12,,102 (+3),,534,-50,"2, 3, 4",solid,metallic,1071,3633,6.69,lanthanoid,1803
+'59', Pr , Praseodymium, 140.90765(2),D9FFC7,[Xe] 4f3 6s2 ,1.13,,99 (+3),,527,-50,"2, 3, 4",solid,metallic,1204,3563,6.64,lanthanoid,1885
+'60', Nd , Neodymium, 144.242(3),C7FFC7,[Xe] 4f4 6s2 ,1.14,,129 (+2),,533,-50,"2, 3",solid,metallic,1294,3373,7.01,lanthanoid,1885
+'61', Pm , Promethium, [145],A3FFC7,[Xe] 4f5 6s2 ,1.13,,97 (+3),,540,-50,3,solid,metallic,1373,3273,7.26,lanthanoid,1947
+'62', Sm , Samarium, 150.36(2),8FFFC7,[Xe] 4f6 6s2 ,1.17,,122 (+2),,545,-50,"2, 3",solid,metallic,1345,2076,7.35,lanthanoid,1853
+'63', Eu , Europium, 151.964(1),61FFC7,[Xe] 4f7 6s2 ,1.20,,117 (+2),,547,-50,"2, 3",solid,metallic,1095,1800,5.24,lanthanoid,1901
+'64', Gd , Gadolinium, 157.25(3),45FFC7,[Xe] 4f7 5d1 6s2 ,1.20,,93.8 (+3),,593,-50,"1, 2, 3",solid,metallic,1586,3523,7.9,lanthanoid,1880
+'65', Tb , Terbium, 158.92535(2),30FFC7,[Xe] 4f9 6s2 ,1.20,,92.3 (+3),,566,-50,"1, 3, 4",solid,metallic,1629,3503,8.22,lanthanoid,1843
+'66', Dy , Dysprosium, 162.500(1),1FFFC7,[Xe] 4f10 6s2 ,1.22,,107 (+2),,573,-50,"2, 3",solid,metallic,1685,2840,8.55,lanthanoid,1886
+'67', Ho , Holmium, 164.93032(2),00FF9C,[Xe] 4f11 6s2 ,1.23,,90.1 (+3),,581,-50,3,solid,metallic,1747,2973,8.8,lanthanoid,1878
+'68', Er , Erbium, 167.259(3),0.00E+00,[Xe] 4f12 6s2 ,1.24,,89 (+3),,589,-50,3,solid,metallic,1770,3141,9.07,lanthanoid,1842
+'69', Tm , Thulium, 168.93421(2),00D452,[Xe] 4f13 6s2 ,1.25,,103 (+2),,597,-50,"2, 3",solid,metallic,1818,2223,9.32,lanthanoid,1879
+'70', Yb , Ytterbium, 173.054(5),00BF38,[Xe] 4f14 6s2 ,1.10,,102 (+2),,603,-50,"2, 3",solid,metallic,1092,1469,6.57,lanthanoid,1878
+'71', Lu , Lutetium, 174.9668(1),00AB24,[Xe] 4f14 5d1 6s2 ,1.27,160,86.1 (+3),,524,-50,3,solid,metallic,1936,3675,9.84,transition metal,1907
 72, Hf , Hafnium, 178.49(2),4DC2FF,[Xe] 4f14 5d2 6s2 ,1.30,150,71 (+4),,659,0,"2, 3, 4",solid,metallic,2506,4876,13.31,transition metal,1923
 73, Ta , Tantalum, 180.94788(2),4DA6FF,[Xe] 4f14 5d3 6s2 ,1.50,138,72 (+3),,761,-31,"-1, 2, 3, 4, 5",solid,metallic,3290,5731,16.65,transition metal,1802
 74, W , Tungsten, 183.84(1),2194D6,[Xe] 4f14 5d4 6s2 ,2.36,146,66 (+4),,770,-79,"-2, -1, 1, 2, 3, 4, 5, 6",solid,metallic,3695,5828,19.25,transition metal,1783
