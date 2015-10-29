@@ -15,9 +15,9 @@ diccionario = {
 
 
 '1' : ['H' , 'Hydrogen', '1.00794(4)','FFFFFF','1s1','2.20,37,,120,1312','-73',"-1','1",'gas','diatomic','14','20','8.99E-05','nonmetal','1766'],
-2, He , Helium, 4.002602(2),D9FFFF,1s2 ,,32,,140,2372,0,,gas,atomic,,4,0,noble gas,1868
-3, Li , Lithium, 6.941(2),CC80FF,[He] 2s1 ,0.98,134,76 (+1),182,520,-60,1,solid,metallic,454,1615,0.54,alkali metal,1817
-4, Be , Beryllium, 9.012182(3),C2FF00,[He] 2s2 ,1.57,90,45 (+2),,900,0,2,solid,metallic,1560,2743,1.85,alkaline earth metal,1798
+'2', He , Helium, 4.002602(2),D9FFFF,1s2 ,,32,,140,2372,0,,gas,atomic,,4,0,noble gas,1868
+'3', Li , Lithium, 6.941(2),CC80FF,[He] 2s1 ,0.98,134,76 (+1),182,520,-60,1,solid,metallic,454,1615,0.54,alkali metal,1817
+'4', Be , Beryllium, 9.012182(3),C2FF00,[He] 2s2 ,1.57,90,45 (+2),,900,0,2,solid,metallic,1560,2743,1.85,alkaline earth metal,1798
 5, B , Boron, 10.811(7),FFB5B5,[He] 2s2 2p1 ,2.04,82,27 (+3),,801,-27,"1, 2, 3",solid,covalent network,2348,4273,2.46,metalloid,1807
 6, C , Carbon, 12.0107(8),909090,[He] 2s2 2p2 ,2.55,77,16 (+4),170,1087,-154,"-4, -3, -2, -1, 1, 2, 3, 4",solid,covalent network,3823,4300,2.26,nonmetal,Ancient
 7, N , Nitrogen, 14.0067(2),3050F8,[He] 2s2 2p3 ,3.04,75,146 (-3),155,1402,-7,"-3, -2, -1, 1, 2, 3, 4, 5",gas,diatomic,63,77,0,nonmetal,1772
